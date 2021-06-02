@@ -921,7 +921,11 @@ section {
   padding-right: 4px;
   color: #68A4C4;
 }
-
+.about .img-fluid {
+  padding-top: 20px;
+  max-width: 100%;
+  height: auto;
+}
 .about p:last-child {
   margin-bottom: 0;
 }
